@@ -40,4 +40,8 @@ Adaptive allocation strategy
 
 Simulation-based training
 
+<<<<<<< HEAD
 Market-driven learning approach
+=======
+Market-driven learning approach
+>>>>>>> e23edc2b974042b790f2d306b15e1113be86f615
